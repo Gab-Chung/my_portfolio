@@ -5,11 +5,11 @@
   --header-height: 3rem;
   /*========== Colors ==========*/
   /* Change favorite color */
-  --hue-color: 250;
+  --hue-color: 189;
   /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
   /* HSL color mode */
-  --first-color: hsl(var(--hue-color), 69%, 61%);
-  --first-color-second: hsl(var(--hue-color), 69%, 61%);
+  --first-color: hsl(var(--hue-color), 57%, 33%);
+  --first-color-second: hsl(var(--hue-color), 73%, 19%);
   --first-color-alt: hsl(var(--hue-color), 57%, 53%);
   --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
   --title-color: hsl(var(--hue-color), 8%, 15%);
@@ -522,35 +522,39 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
+.skills__script {
+  width: 85%;
+}
+
+.skills__direct {
   width: 90%;
 }
 
-.skills__css {
+.skills__edit {
+  width: 95%;
+}
+
+.skills__cine {
+  width: 90%;
+}
+
+.skills__prod {
   width: 85%;
 }
 
-.skills__js {
-  width: 75%;
-}
-
-.skills__react {
-  width: 85%;
-}
-
-.skills__javas {
+.skills__interface {
   width: 80%;
 }
 
-.skills__node {
+.skills__web {
   width: 80%;
 }
 
-.skills__firebase {
-  width: 60%;
+.skills__brand {
+  width: 90%;
 }
 
-.skills__pythons {
+.skills__graphics {
   width: 95%;
 }
 
@@ -558,16 +562,16 @@ img {
   width: 90%;
 }
 
-.skills__cv {
+.skills__nlp {
   width: 92%;
 }
 
-.skills__nlp {
-  width: 85%;
+.skills__llm {
+  width: 95%;
 }
 
-.skills__ap {
-  width: 90%;
+.skills__cv {
+  width: 75%;
 }
 
 .skills__ps {
@@ -594,15 +598,27 @@ img {
   width: 95%;
 }
 
-.skills__gcp {
+.skills__gh {
   width: 85%;
 }
 
-.skills__aws {
-  width: 75%;
+.skills__ls {
+  width: 90%;
 }
 
-.skills__gpu {
+.skills__bi {
+  width: 95%;
+}
+
+.skills__pjm {
+  width: 82%;
+}
+
+.skills__pdm {
+  width: 80%;
+}
+
+.skills__fr {
   width: 90%;
 }
 
