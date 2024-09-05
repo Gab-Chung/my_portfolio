@@ -4,7 +4,7 @@
 
 ![Website screenshot](./assets/img/website_screenshot.png)
 
-Feel free to explore my work and projects by [visiting this portfolio](gabchung.com)
+Feel free to explore my work and projects by [visiting this portfolio](https://gabchung.com)
 
 ### Features include:
 
