@@ -2,7 +2,7 @@
 
 ### Here is an example of how this portfolio looks like:
 
-![Website screenshot](./assets/img/website_screenshot.png)
+![Website screenshot](assets/img/website_screenshot.png)
 
 Feel free to explore my work and projects by [visiting this portfolio](https://gabchung.com)
 
