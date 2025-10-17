@@ -4,7 +4,7 @@
 
 ![Website screenshot](assets/img/website_screenshot.png)
 
-Feel free to explore my work and projects by [visiting this portfolio](https://gabchung.com)
+Feel free to explore my work and projects by [visiting this portfolio](https://gabchung.net)
 
 ### Features include:
 
@@ -13,5 +13,6 @@ Feel free to explore my work and projects by [visiting this portfolio](https://g
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
 
 
