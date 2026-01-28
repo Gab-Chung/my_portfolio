@@ -908,7 +908,9 @@ img {
 
 .project__title {
   font-size: var(--h2-font-size);
+  margin-top: -1em;
   margin-bottom: var(--mb-0-75);
+  text-align: center;
 }
 
 .project__description {
